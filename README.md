@@ -1,3 +1,9 @@
+# Archived
+
+relocated to https://github.com/sharemycart/sharemycart
+
+---
+
 # What's in this repo
 Hybrid client for Share My Cart for Web, iOS, Android
 
